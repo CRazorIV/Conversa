@@ -1,11 +1,11 @@
 export const signup = (req, res) => {
-    res.send("signup function");
-}
+  res.send("signup function");
+};
 
 export const login = (req, res) => {
-    res.send("login function");
-}
+  res.send("login function");
+};
 
 export const logout = (req, res) => {
-    res.send("logout function");
-}
+  res.send("logout function");
+};
